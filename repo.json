@@ -1,0 +1,9 @@
+{
+"name": "PPHAN Extension",
+"description": "PPHAN",
+"manifestVersion": 1,
+"pluginLists": [
+"https://raw.githubusercontent.com/null-body/teststream/main/plugins.json"
+  
+]
+}
