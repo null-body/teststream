@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/null-body/teststream/main/PhimNguonCProvider.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "PhimNguonCProvider",
+    "internalName": "PhimNguonCProvider",
+    "authors": ["CloudStream"],
+    "description": "CloudStream",
+    "fileSize": 24407,
+    "repositoryUrl": "https://github.com/null-body/teststream/tree/main",
+    "language": "vi",
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": "https://codeberg.org/cloudstream609/cloudstream-extensions-vn/raw/branch/main/Icons/vn_icon.png",
+    "apiVersion": 1
+  }
+]
